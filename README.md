@@ -3,10 +3,10 @@
 A light/dark color scheme for the kitty terminal
 
 
-![Colortest](./assets/colorTest.png)
+![Colortest](./assets/colorsTest.png)
 
 
-![Colortest](./assets/colorTestDark.png)
+![Colortest](./assets/colorsTestDark.png)
 
 Based on the [Alabaster Sublime Scheme](https://github.com/tonsky/sublime-scheme-alabaster) by Nikita Prokopov
 
